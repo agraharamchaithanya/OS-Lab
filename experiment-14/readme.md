@@ -1,5 +1,5 @@
 # program file
-![program file](fifo_code.png) 
+![program file](fifo_code.png)
 
 # sample output
 ![sample outputs](fifo_sample.png) 
