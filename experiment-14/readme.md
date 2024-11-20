@@ -1,14 +1,26 @@
-# program files
-![program files](fifo_code.png , 
-                lru_code.png ,
-                optimal_code.png)
+# program file
+![program file](fifo_code.png) 
 
-# sample outputs
-![sample outputs](fifo_sample.png , 
-                  lru_sample.png ,
-                  optimal_sample.png)
+# sample output
+![sample outputs](fifo_sample.png) 
 
-# outputs
-![outputs](fifo_output.png , 
-           lru_output.png ,
-           optimal_output.png)
+# output
+![output](fifo_output.png) 
+
+# program file
+![program file](lru_code.png)
+
+# sample output
+![sample output](lru_sample.png)
+
+# output
+![output](lru_output.png)
+
+# program file
+![program file](optimal_code.png)
+
+# sample output
+![sample output](optimal_sample.png)
+
+# output
+![output](optimal_output.png)
