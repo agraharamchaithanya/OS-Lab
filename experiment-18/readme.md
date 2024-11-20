@@ -11,7 +11,7 @@
 ![program file](scan_code.png)
 
 # sample output
-![sample output](scan_sample.png)
+![sample output](scan_samle.png)
 
 # output
 ![output](scan_output.png)
